@@ -1,0 +1,21 @@
+Bienvenue dans le readme de notre projet. 
+Ce projet a été réalisé par BACQ Maxime, HAMEL Nino et POTTIER Loann.
+
+Tout d'abord, pour la partie airBnb comme pour la partie ordonnanceur, placez-vous dans le répertoire du même nom et entrez " make " dans le terminal pour construire votre éxécutable. 
+Vous pouvez aussi entrer la commande " make clean " qui supprimera tous les anciens fichiers crées par la dernière compilation avec " make ".
+Éxécutez maintenant ce qui a été crée par la commande " make ". 
+
+Nous allons maintenant décrire ce qu'il va se passer pour l'éxécutable " airBnB " :
+Tout d'abord, il vous sera demandé d'entrer les informations du logement dont vous voulez estimer le prix. 
+Entrez les informations qui vous sont demandées. 
+Ensuite, il vous sera demandé de choisir selon combien de logements vous voulez estimer le prix, de façon à ajuster la précision de l'estimation du prix.
+Enfin, le prix estimé vous sera donné.
+
+Maintenant, pour l'éxécutable "ordonnanceurs", il vous sera demandé d'entrer le nombre de processus à ajouter à l'ordonnanceur.
+Une fois que vous aurez choisi ce nombre, il vous sera demandé d'ajouter les informations de ces processus un à un, suivez les demandes qui vous seront faites dans le terminal. 
+Enfin, les processus s'éxécuteront jusqu'à ce que l'ordonnanceur soit vide à la manière d'un ordonnancement FIFO.
+
+Si vous avez une question quelconque, vous pouvez vous l'envoyer à une des adresses e-mail suivantes : 
+bacqmaxime@cy-tech.fr
+hamelnino@cy-tech.fr
+pottierloa@cy-tech.fr
